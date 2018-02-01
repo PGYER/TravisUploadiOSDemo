@@ -1,0 +1,32 @@
+language: objective-c
+osx_image: xcode9.2
+env:
+  global:
+  - APPNAME=PgySDKDemo
+  - PROFILE_NAME=sdk_demo
+  - 'DEVELOPER_NAME="iPhone Distribution: shengtao lei (DG37YK9PRK)"'
+  - secure: VE9opXtdtxSYb9rFZflJE9TAki9Sk4Cc/zR430rXh+G1QdopuuojFaPoHDd1La5zL7PbctPfrCY1FesviUh2rGfXfstmOkLZhRhI8dLrAnj/GlqTH5c8TV/HiZZzLUUuvLva7BZ65DLO0f18oxJa7V+YK0kqWZNpMLfm8YhISELTtSUfgTqFgXcvfLHfshuZxWmPs6fRGP20wEQwf52Oh5pdIN+uL3IwfJqt3AusC8P5EpKX7Y4qvUDKC5V5vF2bPkibJkPi8Pgm6utt+5AkxdhCyHjijelc8IU0zUpzoJBi15Ja8zH43CJZg7vK3kyDDMYKoB+W2ll1F4HjWO3SW4pwwOK3Y1SA97hS+x2PUazm/m9xDJILpenMmFJvpCakCz0cFPojmDumb9L5/Eljv9XaZMFbvX3OSa/sQvQxnlr3DYkhpGZJ5A8EmZgHtKnq6kHu0s2gTuNsAexxvieBRbB2JUAHVugS7QE861gKVc0vxByAIUwS1IT2BchdqK6guv8IZ4lJaEXKgG7jlcKV3YeGhtZ3WITPW/GUdGdAhEHUsaLAty4ASFEPNrPgzN1GDHeAgVBw3+5hfINAwc5ci589Umu3gyHhDlaRUlvFOQxE1UzPAF2CLOS2Yy2Zfk+oNbNwHGo5o6vQrWIAC8uUW8D9IrSHk39do+mlc5twO/A=
+  - secure: OgmaTUOWaS2sVYL/+YKWM6TcxY/cKNKCbYOusYke476wJ0RlYb/sMY5d8dolXB1x6uaq4+dGo/jR+ERh9CU8AvgT678E8FINnCF6XHlLsW/qaGmoxQ8drVSTaulDOA/czEY7hLXCNoU/QgNkLpjUHv0QD0Uc9+8ZdUwDsi9FwDdPjV1Yj1kr/pi0BsliXFd+6/mxQY8pTi3hag/7yajkpfTrv1d7q1f+ZxEhTa1zQeGQnXl8l/Blh7VkQOGl68i94uUfR7lhB1bgP8ZeOBRnUeO6H2huZ0n5M1MEOaC2HYF3ZER5UE7ezA4uSrWYSnLPOx7ixyZaHFMKDfC4Yz26vcHnV2EoJN5mhjTAP0fv9xnRd5RMMq/RUpKFFwoNXYr6fc4ID/sm+qOdugou169YZ56czdSGanaZ7lbo4hUij2bszBRhKGHj+VQx3TagPfFpK1N6+6ynMN88EFGk6qAvyjp8MUfpKpIUABc9AZ61sXyHOLM48G+k4qvkN3o0tNaK6L/uQbQ+yFxxPW6OYx/MVYjgDoeCymM4usqkNbqUWyk/Jxxgjn94xRZJSlNjh5C+bBeCLSJLbmmXXIjWOl88W3zCIbsX5f3cBgF5eUx8LJCMiiOXbkzBNUWSoXVVRDxO9BEUVBsaCxWzYIiCZChmbd6YOGZDOFMxVg336MdfznY=
+  - secure: VBRYh1WsDEzLC0LK3A3C2Xjk6z/X6vPLNWO/VFn0FQHldhmJyF2SgJE2k8egIXhLKfPXfpn5bklYZcj/kVWNhp5vYM1fJk6kTd4fAMOxM/CawaYbhEe1P/vwxKCTVaKzTx8OXAmh9gX78J6cgMsC7LhEm8E2JSfOCoHnm+Swi0z16P6XOkgivFvGbOPy2llXuD4cV2n/EIF5EbfnjxkUxy/PPJxRzbaBjIP4u1n0xVAWJPZpwflm5Rt7gWCasjnMf5oj+S4dLY+7Igz+SGGOhhul+/jp4BhoC9YsbhmfPfO6REgb9MmqNtcoccEpJ74Vmr/o6cFOn8n3TjfHxdqaK9pKMkHuAKZ0S+G1cPVS3/ECjMeInjAChAiu280lzPSs8TjfHemvQKUktAd532r+toMRWXNxFMHWND/SLkyD1zLvofG7hYKJ82qJQ/0UT5q6ukI8VU0fWmop52pgzUS1QtvonRF7Xm8MRsr+rW34Ta4zydd86vDSevEzhTDOpOx2y76ZqjrYjEvOPiBdWAlCUI03ZboJtMwPtigQOBHbXcmOjtTK9zvXwhpEsmMZyEk4g4uYSf5v4ReS1+HZFa6OS3Mx1/iOba7DqF+5NxCxsOmzf/KY8kL8wTyCrxxd2CTG+X8k+icYI6Hwp+JxKrgu1FeGOC43UYzOuacxQpxfkGk=
+  - secure: DBSeOUNomTBLv5qQyu4DDZZZoLxuLTZFOeXL/iB2ARSjNCeZ1KY3CfT2bCcfrChbhzdA8DZSYrYrKu/rbdnRy9fPdq2GBOOxmfWcOv8bJ8V7dn0So/Ybg+1LOrJIUha3yjuy+65Dag1dZ+YhBYuwTFjumCm6HZT8lc6AmU8trX+U0TXctg47l+B3hCd5uhe204dDaf9su5bk3oaVgBZEUCPRSyxL/vFS43hBpC14kptAcd60vCfqWt5CXoSmzhC9ZESiV9wKhNRfxxlnbz5Qxb5Pc8iAtFr+HL1Ox4c9ws80eL/dxSap31PJLDuH4JJHYoU68rtUVSRGd0YMY3r8frEF6RWMLS7quxXs5Qrsvv5lPt4v64z0STJRK1ZY0JEQwTQ6iYYwnW2axwF3nSMYicytNZ7njrz4vYK9PR2+iVq5nqA/gfcW7O3WrF7pXvsyAEqm+2neakXxuN27HQPAN/gcSlixgWoNOfMslwKiQ+Yi9rcxTfiBTIPSaDePgukDTEVvfTi/pUOB5BN5fSyT/iAJ/f+aWc/Je0CWxI+KOmDH8REYa9ylGcYdtJQZM/CeshKM/8y1pxS6UKneeLLaCyf+Wu5LUOE+4kqM2avMcxgDkENeZ4PgHfuurPNVQOyA65cIUcG30GD3VjVWJ2GFsUZ1z1EjEGanB58dJRHn9n4=
+before_install:
+- cd $TRAVIS_BUILD_DIR
+- wget -c https://raw.githubusercontent.com/Pgyer/TravisFile/master/pgyer_upload.sh
+  -O pgyer_upload.sh
+- openssl aes-256-cbc -K $encrypted_3c4b9fb3b43f_key -iv $encrypted_3c4b9fb3b43f_iv
+  -in certificates.tar.enc -out certificates.tar -d
+- tar xvf certificates.tar -C ./travis/certificates
+- chmod +x pgyer_upload.sh
+- chmod +x travis/scripts/add-key.sh
+- chmod +x travis/scripts/build.sh
+- chmod +x travis/scripts/upload.sh
+- chmod +x travis/scripts/remove-key.sh
+before_script:
+- "./travis/scripts/add-key.sh"
+script:
+- "./travis/scripts/build.sh"
+after_success:
+#- ./pgyer_upload.sh "./build/$APPNAME.ipa" $PGYER_APIKEY
+- "./travis/scripts/upload.sh"
+after_script:
+- "./travis/scripts/remove-key.sh"

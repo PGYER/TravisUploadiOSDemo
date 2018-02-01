@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>848E7814-D733-4E10-B208-8443429FE027</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PgySDKDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a11dc3c0-4e9f-4cac-9361-b41048375802</key>
+		<string>svn://svn.yunhuiju.com/pgyer_sdk_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/demo/PgySDKDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a11dc3c0-4e9f-4cac-9361-b41048375802</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a11dc3c0-4e9f-4cac-9361-b41048375802</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a11dc3c0-4e9f-4cac-9361-b41048375802</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pgyer_sdk_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

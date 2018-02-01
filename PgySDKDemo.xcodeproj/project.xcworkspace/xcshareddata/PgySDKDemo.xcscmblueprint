@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a11dc3c0-4e9f-4cac-9361-b41048375802",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a11dc3c0-4e9f-4cac-9361-b41048375802" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a11dc3c0-4e9f-4cac-9361-b41048375802" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "848E7814-D733-4E10-B208-8443429FE027",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a11dc3c0-4e9f-4cac-9361-b41048375802" : "pgyer_sdk_ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PgySDKDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/demo\/PgySDKDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.yunhuiju.com\/pgyer_sdk_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a11dc3c0-4e9f-4cac-9361-b41048375802"
+    }
+  ]
+}
