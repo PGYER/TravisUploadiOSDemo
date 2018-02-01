@@ -5,4 +5,3 @@ xcrun xcodebuild -project PgySDKDemo.xcodeproj -scheme PgySDKDemo \
 xcrun xcodebuild -exportArchive -archivePath PgySDKDemo.xcarchive \
   -exportPath ./build -exportOptionsPlist ExportOptions.plist
 
-ls -a
